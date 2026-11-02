@@ -1,5 +1,6 @@
 # Problema_agricola
-resolvendo problema agricola com pulp e linprog
+
+Resolvendo problema agrícola com pulp e linprog
 
 Uma pequena área agrícola pode ser usada para plantar tomate e trigo. A decisão é definir quantos hectares serão destinados para cada cultura.
 
@@ -13,3 +14,6 @@ Informações do problema:
 - trigo usa 20 unidades de mão de obra por hectare;
 - tomate usa 8 unidades de água por hectare;
 - trigo não usa água neste exemplo simplificado.
+
+Objetivo:
+Maximizar o lucro total, respeitando as restrições de área, água e mão de obra.
